@@ -1,32 +1,17 @@
-
-
-<!--
-**usernameisnik/usernameisnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
+## 💫 Hey! I'm Nikhil!
 I'm an Undergraduate in Computer Science (Cyber Security Specialisation)<br>I have experience working in UI Design, Social Media Graphic Design, and Content Writing. <br>I can code in C and Python, and have little experience working with HTML, CSS and C#. <br>If I had to name one thing I absolutely love, it would be taking up complex challenges and put my critical thinking to test. <br>Apart from being a programming enthusiast, I'm into Psychology, Forensics and Video Games.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Sherlock#9650) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abcefghidk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/csrinikhil) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/notyetnikhil/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/c/srinikhilc) 
+## 🌐 My Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/csrinikhil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abcefghidk) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/notyetnikhil/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@srinikhilc) 
 
-# 💻 Stuff I've worked with:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=usernameisnik&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=usernameisnik&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameisnik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 💻 I've worked with:
+<img src="https://img.icons8.com/color/512/c-programming.png" width= "60" height= "60">  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width= "60" height= "60"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width= "60" height= "60"> <img src="https://www.labsrc.com/wp-content/uploads/2022/03/css3.png" width= "60" height= "60"> <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" width= "60" height= "60"> <img src="https://static-00.iconduck.com/assets.00/apps-notion-icon-256x256-micnerin.png" width= "60" height= "60">  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width= "60" height= "60">  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width= "60" height= "60"> 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=usernameisnik&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 I might be funny :D
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+# 🧠 I want to explore:
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width= "60" height= "60"> <img src="https://store-speedtree-com.exactdn.com/site-assets/uploads/Unity-Logo-White.png?strip=all&lossy=1&quality=73&w=2560&ssl=1" width= "100" height= "60"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"  width= "60" height= "60"/> <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/linux-server-system-platform-os-computer-penguin-512.png" width= "60" height= "60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" width= "60" height= "60"> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width= "60" height= "60"> 
 ---
-[![](https://visitcount.itsvg.in/api?id=usernameisnik&icon=5&color=0)](https://visitcount.itsvg.in)
+</body>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--END -->
